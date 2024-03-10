@@ -5,8 +5,8 @@
 In this Project I demonstrated My ability to learn vulnerability scanning and vulnerability remediation. These are two of the main steps in the Vulnerability Management Lifecycle.I used Nessus Essentials to scan local VMs hosted on VMWare Workstation in order run credentialed scans to discover vulnerabilities, remediate some of the vulnerabilities, then perform a rescan to verify remediation.
 
 ## Key Takeaways from Project 
-Non-Credential scans = Quick and fast - not thorough 
-Credentials Scans = Longer and slower - much more thorough 
+1. Non-Credential scans = Quick and fast - not thorough 
+2. Credentials Scans = Longer and slower - much more thorough 
 
 ### Skills Learned
 1. Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
